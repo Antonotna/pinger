@@ -1,5 +1,5 @@
 # pinger
-Windows console ping for terminal based on winpcap library
+Windows console ping based on winpcap library
 
 General difference from standart windows ping:
 
